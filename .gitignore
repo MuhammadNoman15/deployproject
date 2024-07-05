@@ -1,0 +1,14 @@
+echo "
+# Django
+*.log
+*.pot
+*.pyc
+__pycache__/
+db.sqlite3
+
+# Environments
+.env
+myenv/
+venv/
+env/
+" >> .gitignore
